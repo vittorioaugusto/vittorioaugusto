@@ -3,7 +3,7 @@
 💻 Sou apaixonado por tecnologia e dedico-me com entusiasmo ao estudo e à prática de conceitos inovadores, visando contribuir para o avanço e desenvolvimento do campo tecnológico.
 
 <div>
-  <a href="https://github.com/MrKevin284">
+  <a href="https://github.com/vittorioaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorioaugusto&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
