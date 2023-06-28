@@ -2,8 +2,9 @@
 🖥️ Estou cursando o 3º período de Ciências da Computação, buscando aprimorar constantemente meus conhecimentos e habilidades na área
 💻 Sou apaixonado por tecnologia e dedico-me com entusiasmo ao estudo e à prática de conceitos inovadores, visando contribuir para o avanço e desenvolvimento do campo tecnológico.
 
-<h1>Redes Sociais</h1>
+
 <div>
+ <h2>Redes Sociais</h2>
  <a href="mailto:vi.aborges47@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
