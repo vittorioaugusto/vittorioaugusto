@@ -30,3 +30,10 @@
 <img align="center" alt="KL-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   
 </div>
+
+<div style="display: inline_block"><br>
+  <h2> 📚 Education </h2>
+<img align="center" alt="KL-HTML" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+
+</div>
+
