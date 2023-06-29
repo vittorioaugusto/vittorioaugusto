@@ -32,6 +32,12 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <h2> 👩‍💻 IDE </h2>
+<img align="center" alt="KL-VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+</div>
+
+<div style="display: inline_block"><br>
   <h2> 📚 Education </h2>
 <img align="center" alt="KL-Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 
