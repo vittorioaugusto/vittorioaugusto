@@ -1,6 +1,7 @@
 👋 Olá, meu nome é Vittorio Augusto. João Pessoa - PB
 
-🖥️ Estou cursando o 3º período de Ciências da Computação, buscando aprimorar constantemente meus conhecimentos e habilidades na área
+🖥️ Estou cursando o 3º período de Ciências da Computação, buscando aprimorar constantemente meus conhecimentos e habilidades na área.
+Estou começando na área de programação, sempre tive o sonho de trabalhar com programação e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript. Gosto de café e meus principais hobbies é: jogar, gravar vídeos, pedalar e assistir filmes e séries.
 
 
 
