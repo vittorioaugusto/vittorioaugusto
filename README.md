@@ -8,7 +8,7 @@ Estou começando na área de programação, sempre tive o sonho de trabalhar com
 <div>
  <h2> 👨 Social </h2>
   <a href="https://vittorioaugusto.github.io/Portfolio/" target="_blank">
-   <img src="https://img.shields.io/badge/portfólio-blue?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/portfólio-blue?style=for-the-badge&logoColor=white" target="_blank">
  </a>
  <a href="mailto:vi.aborges47@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
