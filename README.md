@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#0809FDsize=32&center=true&vCenter=true&width=1000&lines=Hello+there+👋!;+Im+Vittorio!;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
+
 👋 Olá, meu nome é Vittorio Augusto. João Pessoa - PB
 
 🖥️ Estou cursando o 3º período de Ciências da Computação, buscando aprimorar constantemente meus conhecimentos e habilidades na área.
