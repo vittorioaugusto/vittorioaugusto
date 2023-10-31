@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#0809FDsize=32&center=true&vCenter=true&width=1000&lines=Hello+there+👋!;+Im+Vittorio!;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000BFF&random=false&width=435&lines=Hey+guys!;%F0%9F%91%8BI'm+Vittorio;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 👋 Olá, meu nome é Vittorio Augusto. João Pessoa - PB
 
