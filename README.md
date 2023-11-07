@@ -26,10 +26,10 @@ Estou começando na área de programação, sempre tive o sonho de trabalhar com
 
 <div style="display: inline_block"><br>
   <h2> 🚀 Skills </h2>
-<img align="center" alt="KL-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="KL-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="KL-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="KL-Sql" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="Sql" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="KL-Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="KL-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img align="center" alt="KL-VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -42,7 +42,7 @@ Estou começando na área de programação, sempre tive o sonho de trabalhar com
 <img align="center" alt="KL-Udemy" src="https://img.shields.io/badge/Udemy-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white">
  </a>
  <a href="" target="_blank">
-<img align="center" alt="KL-DIO" src="https://img.shields.io/badge/Udemy-blueviolet?style=for-the-badge&logo=logo-full.svg&logoColor=white">
+<img align="center" alt="KL-DIO" src="https://img.shields.io/badge/DIO-blueviolet?style=for-the-badge&logo=logo-full.svg&logoColor=white">
  </a>
 </div>
 
