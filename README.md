@@ -42,7 +42,7 @@ Estou começando na área de programação, sempre tive o sonho de trabalhar com
 <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white">
  </a>
  <a href="https://www.dio.me/" target="_blank">
-<img align="center" alt="DIO" src="https://img.shields.io/badge/DIO-#3A83E7?style=for-the-badge&logo=DIO&logoColor=white">
+<img align="center" alt="DIO" src="https://img.shields.io/badge/DIO-#3A83E7style=for-the-badge&logo=DIO&logoColor=white">
  </a>
 </div>
 
