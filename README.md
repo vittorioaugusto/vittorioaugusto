@@ -30,19 +30,19 @@ Estou começando na área de programação, sempre tive o sonho de trabalhar com
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="Sql" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="KL-Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="KL-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img align="center" alt="KL-VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 
 <div style="display: inline_block"><br>
   <h2> 📚 Education </h2>
  <a href="https://www.udemy.com/" target="_blank">
-<img align="center" alt="KL-Udemy" src="https://img.shields.io/badge/Udemy-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white">
+<img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white">
  </a>
- <a href="" target="_blank">
-<img align="center" alt="KL-DIO" src="https://img.shields.io/badge/DIO-blueviolet?style=for-the-badge&logo=logo-full.svg&logoColor=white">
+ <a href="https://www.dio.me/" target="_blank">
+<img align="center" alt="DIO" src="https://img.shields.io/badge/DIO-blueviolet?style=for-the-badge&logo=logo-full.svg&logoColor=white">
  </a>
 </div>
 
