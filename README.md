@@ -41,5 +41,8 @@ Estou começando na área de programação, sempre tive o sonho de trabalhar com
  <a href="https://www.udemy.com/" target="_blank">
 <img align="center" alt="KL-Udemy" src="https://img.shields.io/badge/Udemy-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white">
  </a>
+ <a href="" target="_blank">
+<img align="center" alt="KL-DIO" src="https://img.shields.io/badge/Udemy-blueviolet?style=for-the-badge&logo=logo-full.svg&logoColor=white">
+ </a>
 </div>
 
