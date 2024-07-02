@@ -17,9 +17,6 @@ Estou começando na área de programação, sempre tive o sonho de trabalhar com
  <a href="https://www.linkedin.com/in/vittorio-augusto/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a href="https://www.instagram.com/vittorio.augusto/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- </a>
  
  <br>
 
