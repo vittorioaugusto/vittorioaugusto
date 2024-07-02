@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=000BFF&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey+guys%F0%9F%91%8B!;I'm+Vittorio;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=000BFF&center=true&vCenter=true&random=false&width=700&lines=Hey+guys!;I'm+Vittorio;+Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
+
 👋 Olá, meu nome é Vittorio Augusto. João Pessoa - PB
 
 🖥️ Estou cursando o 5º período de Ciências da Computação, buscando aprimorar constantemente meus conhecimentos e habilidades na área.
